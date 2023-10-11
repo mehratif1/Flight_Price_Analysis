@@ -19,6 +19,7 @@ Have been done next munipulations with the chosen dataset:
 Using destriptive statistics get next conclusions:
 Time Efficiency Matters: Shorter flights tend to correlate with lower ticket prices.
 
+CONCLUSION:
 Stopovers Impact Cost: Flights with two or more stops often come with higher ticket prices. 
 
 Seasonal Consistency: Seasonal fluctuations appear to have minimal influence on ticket prices.
