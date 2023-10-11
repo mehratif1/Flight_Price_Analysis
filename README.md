@@ -24,6 +24,15 @@ ANALYSIS WITH THE CHOSEN DATASET:
 7. Use groupby with aggregation
 8. Creating pie charts, bar charts, scatterplots
 
+   DATA VISUALISATION
+
+<img width="587" alt="image" src="https://github.com/mehratif1/project1-team1/assets/142356334/32898ee0-fd62-4f1c-af6b-a33d01209457">
+<img width="656" alt="image" src="https://github.com/mehratif1/project1-team1/assets/142356334/8a23ccc6-1d4b-4a8e-8ac4-d026621a3330">
+<img width="635" alt="image" src="https://github.com/mehratif1/project1-team1/assets/142356334/f52a1531-5bb3-4e20-904a-c3483310313c">
+<img width="665" alt="image" src="https://github.com/mehratif1/project1-team1/assets/142356334/f3fcc523-db59-4875-a632-94eead2e34e3">
+<img width="441" alt="image" src="https://github.com/mehratif1/project1-team1/assets/142356334/f009bab1-ee09-4a8d-bb60-92feda657a32">
+<img width="441" alt="image" src="https://github.com/mehratif1/project1-team1/assets/142356334/3dd6c3fb-0884-4daa-aae8-161fb6a20c89">
+
 
 
 CONCLUSION:
@@ -35,5 +44,6 @@ Stopovers Impact Cost: Flights with two or more stops often come with higher tic
 Seasonal Consistency: Seasonal fluctuations appear to have minimal influence on ticket prices.
 
 Budget-Friendly Prevalence: Economical ticket options dominate the market, reflecting a strong preference for affordability among travelers.
+
 
 
