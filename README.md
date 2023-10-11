@@ -1,12 +1,17 @@
 # project1-team1
  Flight Price Prediction
+ 
  Objectives of analysis:
+ 
  1. Does the ticket price depend on duration of the flight?
  2. Does the ticket price depend on the seasoning?
  3. Does the ticket price depend on the chosen airline?
  4. Does the ticket price depend on the chosen routes?
  5. Does the ticket price depend on the number of stops?
-In order to procced this analysis was gathered dataset from kaggel website https://www.kaggle.com/code/anshigupta01/flight-price-prediction/input
+ 6
+ Data Source:
+In order to procced this analysis we gathered dataset from kaggel website https://www.kaggle.com/code/anshigupta01/flight-price-prediction/input
+
 Have been done next munipulations with the chosen dataset:
 1. Use head, dtypes, size function for better understabding of the dataset.
 2. Convet from excel format to csv in osder to rich lightweight and as a result faster execution of code.
@@ -20,6 +25,7 @@ Using destriptive statistics get next conclusions:
 Time Efficiency Matters: Shorter flights tend to correlate with lower ticket prices.
 
 CONCLUSION:
+
 Stopovers Impact Cost: Flights with two or more stops often come with higher ticket prices. 
 
 Seasonal Consistency: Seasonal fluctuations appear to have minimal influence on ticket prices.
