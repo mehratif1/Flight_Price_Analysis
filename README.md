@@ -10,9 +10,10 @@
  5. Does the ticket price depend on the number of stops?
  
  Data Source:
+ 
 In order to procced this analysis we gathered dataset from kaggel website https://www.kaggle.com/code/anshigupta01/flight-price-prediction/input
 
- munipulations with the chosen dataset:
+Analysis with the chosen dataset:
  
 1. Use head, dtypes, size function for better understabding of the dataset.
 2. Convet from excel format to csv in osder to rich lightweight and as a result faster execution of code.
