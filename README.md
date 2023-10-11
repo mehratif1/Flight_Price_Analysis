@@ -16,7 +16,7 @@ In order to procced this analysis we gathered dataset from kaggel website https:
 ANALYSIS WITH THE CHOSEN DATASET:
  
 1. Use head, dtypes, size function for better understabding of the dataset.
-2. Convet from excel format to csv in osder to rich lightweight and as a result faster execution of code.
+2. Convet from excel format to csv in order to rich lightweight and as a result faster execution of code.
 3. Cleaninng dataset, using isna function combine it with sum function to find out how much missing values in each column. Using dropna function with parameter how = any to delete all rows with missing values. Also delete column "Additional Info", becase there was no useful information for analysis.
 4. Convert data in column "Date of Journey" from string to datetime type, sorting from begining, finding difference between start date and end date  - 337 days, exctacting months from "Date of Journey" in additional column in order to find out correlation between price and seasoning.
 5. Convert data in column "Duration" from string to float type by using split and replace function.
